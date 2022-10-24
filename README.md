@@ -1,4 +1,4 @@
-# <p align='center'>Repositiorio para estudiantes de la ESEI :rocket:</p>
+# <p align='center'>:rocket: Repositiorio para estudiantes de la ESEI :rocket:</p>
 
 :zap: Toda la documentación aquí presente está destinada a un empleo académico lícito, así que no me hago responsable de su mal uso.
 
