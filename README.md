@@ -2,10 +2,14 @@
 
 :zap: Toda la documentación aquí presente está destinada a un empleo académico lícito, así que no me hago responsable de su mal uso.
 
+:bug: Si al intentar ver un PDF u otro tipo de archivo os sale un mensaje `Unable to render code block` en su lugar es que el tráfico dentro del repositorio ha excedido el plan gratuito para el mes actual. Ya estoy trabajando en una solución para ello. Y una solución para sobrepasar este problema es descargarse el directorio completo.
+- Usando `git clone https://github.com/StephanJ98/Univ_Codes.git`
+- Descargando como ZIP `https://github.com/StephanJ98/Univ_Codes/archive/refs/heads/main.zip`
+
 :sparkles: En caso de querer ayudar o aportar nueva documentación, simplemente crea un fork del repositorio y crea una pull request. O crea una issue directamente en este repositorio explicando que es lo que cambiarias.
 
 :anger: En caso contrario, si consideras que algún documento no debería estar ahí o que es de tu propiedad. Simplemente, crea una issue especificando a que documento te refieres, el porqué consideras que de debe eliminado y en caso necesario demostrando la autoría del documento al que te refieres.
 
 ---
-
+###### <p align='right'> Tamaño actual 821 ficheros. 1,28GB </p>
 ###### <p align='right'> Dov Ver. 0.0.2 (24/10/2022) </p>
