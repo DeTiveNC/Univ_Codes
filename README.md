@@ -6,10 +6,15 @@
 - Usando `git clone https://github.com/StephanJ98/Univ_Codes.git`
 - Descargando como ZIP `https://github.com/StephanJ98/Univ_Codes/archive/refs/heads/main.zip`
 
-:sparkles: En caso de querer ayudar o aportar nueva documentación, simplemente crea un fork del repositorio y crea una pull request. O crea una issue directamente en este repositorio explicando que es lo que cambiarias.
+:sparkles: En caso de querer ayudar o aportar nueva documentación, simplemente crea un fork del repositorio y crea una pull request. O crea una issue directamente en este repositorio explicando que es lo que cambiarias. 
+
+```
+En caso de querer contribuir con documentos que excedan 50 MB, por favor usa una herramienta del tipo 7zip para comprimir el archivo y dividirlo en partes para no exceder el límite. 
+Esta medida es para evitar al máximo el empleo de Git LFS que es el que provoca el problema de `Unable to render code block` comentado anteriormente.
+```
 
 :anger: En caso contrario, si consideras que algún documento no debería estar ahí o que es de tu propiedad. Simplemente, crea una issue especificando a que documento te refieres, el porqué consideras que de debe eliminado y en caso necesario demostrando la autoría del documento al que te refieres.
 
 ---
 ###### <p align='right'> Tamaño actual 821 ficheros. 1,28GB </p>
-###### <p align='right'> Dov Ver. 0.0.2 (24/10/2022) </p>
+###### <p align='right'> Dov Ver. 0.0.3 (25/10/2022) </p>
