@@ -8,10 +8,10 @@
 
 :sparkles: En caso de querer ayudar o aportar nueva documentación, simplemente crea un fork del repositorio y crea una pull request. O crea una issue directamente en este repositorio explicando que es lo que cambiarias. 
 
-```
-En caso de querer contribuir con documentos que excedan 50 MB, por favor usa una herramienta del tipo 7zip para comprimir el archivo y dividirlo en partes para no exceder el límite. 
+
+> En caso de querer contribuir con documentos que excedan 50 MB, por favor usa una herramienta del tipo 7zip para comprimir el archivo y dividirlo en partes para no exceder el límite. 
 Esta medida es para evitar al máximo el empleo de Git LFS que es el que provoca el problema de `Unable to render code block` comentado anteriormente.
-```
+
 
 :anger: En caso contrario, si consideras que algún documento no debería estar ahí o que es de tu propiedad. Simplemente, crea una issue especificando a que documento te refieres, el porqué consideras que de debe eliminado y en caso necesario demostrando la autoría del documento al que te refieres.
 
